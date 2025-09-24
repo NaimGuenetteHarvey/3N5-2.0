@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8ba0937-b7a7-490d-a568-4ac0c7818653" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Formatif/.idea/workspace (2).xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Formatif/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatif/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Formatif/src/main/kotlin/Liste2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatif/src/main/kotlin/Liste2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Formatif2/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Formatif2/src/main/kotlin/Déboguer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Formatif2/src/main/kotlin/Liste.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Formatif2/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Deboguer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ExoListe.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ExtraireCourriel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ExtraireNomPrenom.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/kotlin/Pyramide.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/trace.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/types.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/mots1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/mots2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/src/main/kotlin/Main.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="33AI0ZWovVjqkXLikv9rvDX3BlR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/naimg/OneDrive/Bureau/3N5/Formatifexamen&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8ba0937-b7a7-490d-a568-4ac0c7818653" name="Changes" comment="" />
+      <created>1758753227759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758753227759</updated>
+    </task>
+    <servers />
+  </component>
+</project>

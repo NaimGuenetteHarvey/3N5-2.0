@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="org.example.Formatifexamen" target="21" />
+      <module name="org.example.Formatifexamen.main" target="21" />
+      <module name="org.example.Formatifexamen.src.main.Formatif2" target="21" />
+      <module name="org.example.Formatifexamen.src.main.Formatif2.main" target="21" />
+      <module name="org.example.Formatifexamen.src.main.Formatif2.test" target="21" />
+      <module name="org.example.Formatifexamen.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

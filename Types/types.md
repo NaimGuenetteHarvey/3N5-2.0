@@ -1,0 +1,9 @@
+val a = 1                                   // valeur est  int              
+val aa = 1L                                 // valeur est  long        
+val aaa = a * 25 + aa * 100                 // valeur est  long   
+val b = 1.0                                 // valeur est  double        
+val c = "1"                                 // valeur est  string         
+val d = true                                // valeur est  boolean       
+val laChose = c + b                         // valeur est  string         
+val k = listOf("1", "2", "3")               // valeur est  liste            
+val l = mutableListOf(true, false, true)    // valeur est  list of boolean           
